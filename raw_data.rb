@@ -131,7 +131,7 @@ i.voter_rank_candidate "Eric Stevenson", 1, "Rob Elliott"
 i.voter_rank_candidate "Eric Stevenson", 2, "George Nelson"
 i.voter_rank_candidate "Eric Stevenson", 3, "Dennis Peron"
 
-i.voter_rank_candidate "Marcellius Smith", 1, "Jimmy Ogle"
+i.voter_rank_candidate "Marcellius Smith", 1, "James Ogle"
 i.voter_rank_candidate "Marcellius Smith", 2, "Pat Buchanan"
 i.voter_rank_candidate "Marcellius Smith", 3, "Thomas Leavitt"
 
